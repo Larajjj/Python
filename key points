@@ -10,3 +10,5 @@ https://www.youtube.com/watch?v=i4yJi-cpwWk&t=6s
 The Command Prompt can be used to type out commands and execute them, which can be particularly useful for 
 automating tasks via scripts and batch files,as well as carrying out advanced administrative functions and 
 fixing many problems in Windows.
+
+The chevron, >>>, is the prompt the interpreter uses to indicate that it is ready.
