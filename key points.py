@@ -12,3 +12,11 @@ automating tasks via scripts and batch files,as well as carrying out advanced ad
 fixing many problems in Windows.
 
 The chevron, >>>, is the prompt the interpreter uses to indicate that it is ready.
+
+x=2          #assignment statement
+x=x+2        #assignment with expression
+print(x)     #print function
+     here, variable -> x
+           operator -> =  +
+           constant -> 2
+           function -> print()
