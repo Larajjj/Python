@@ -26,3 +26,4 @@ print(x)     #print function
 A string as a sequence of characters not intended to have numeric value. In Python, such sequence of characters is included
 inside single or double quotes. As far as language syntax is concerned, there is no difference in single or double quoted string. 
 Both representations can be used interchangeably.
+
