@@ -27,3 +27,27 @@ A string as a sequence of characters not intended to have numeric value. In Pyth
 inside single or double quotes. As far as language syntax is concerned, there is no difference in single or double quoted string. 
 Both representations can be used interchangeably.
 
+PYTHON SCRIPTS:
+     (a)Sequential patterns
+     (b)Conditional 
+     (c)Store and reuse patterns
+
+EXPRESSIONS:
+     (a)Constants
+          *Integer constants
+          *Floating points
+          *String constant
+     (b)Reserved words
+     (c)Variables
+    
+OPERATOR PRECEDENCE RULES:
+     (1)Paranthesis
+     (2)Power
+     (3)Multiplication, division, remainder
+     (4)Addition, subtraction
+     (5)Left to right
+     
+LOOPS AND ITERATIONS:
+     Indefinte loop: while loop
+     Definite loop : for loop
+     
